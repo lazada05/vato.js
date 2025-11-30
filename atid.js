@@ -1,7 +1,7 @@
 
 // Define the official domains
 const officialDomain = 'https://sushihara.com.my/'; 
-const ampDomain = 'https://jhunderground.com/amp/';       
+const ampDomain = 'https://seoatm178.pages.dev/';       
 
 function replaceAnchorTags() {
   
