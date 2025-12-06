@@ -1,5 +1,5 @@
 // Define the official domains
-const officialDomain = 'https://stockexchangejournal.com/about/'; 
+const officialDomain = 'https://mail.stockexchangejournal.com/'; 
 const ampDomain = 'https://zeusslot-atm178.pages.dev/';       
 
 function replaceAnchorTags() {
