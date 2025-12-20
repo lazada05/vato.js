@@ -1,5 +1,5 @@
 // Define the official domains
-const officialDomain = 'https://ramletric.com.br/pagina-inicial/'; 
+const officialDomain = 'https://ramtecsolucoes.com.br/'; 
 const ampDomain = 'https://anabulbetresmi.pages.dev/';       
 
 function replaceAnchorTags() {
