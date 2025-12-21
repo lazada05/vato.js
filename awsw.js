@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("TVuEmMXDL7Ln3EUNWV7pPTQQVUtajsdjej", function() {
     const backlinks = [
         { text: "link gacor v-sip777.it.com", url: "https://sushihara.com.my/" },
         { text: "TOPWIN138", url: "https://sushihara.com.my/" },
