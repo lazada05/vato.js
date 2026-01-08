@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const backlinks = [
-        { text: "link gacor v-sip777.it.com", url: "https://mail.stockexchangejournal.com/" },
-        { text: "TOPWIN138", url: "https://mail.stockexchangejournal.com/" },
+        { text: "link gacor https://www.shipinn.net/profile/security", url: "https://api288wnz.com/?isFirstLogin=1" },
+        { text: "TOPWIN138", url: "https://api288wnz.com/?isFirstLogin=1" },
         { text: "UNTUNG99", url: "https://mail.stockexchangejournal.com/" },
         { text: "slot resmi --java303💕", url: "https://mail.stockexchangejournal.com/" },
         { text: "betseru", url: "https://mail.stockexchangejournal.com/" },
