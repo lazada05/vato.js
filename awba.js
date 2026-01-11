@@ -1,5 +1,5 @@
 // Define the official domains
-const officialDomain = 'https://catalogue2019.artissima.it/search/'; 
+const officialDomain = 'https://catalogue2019.artissima.it/old/'; 
 const ampDomain = 'https://zeusslot-sukro11.pages.dev/';       
 
 function replaceAnchorTags() {
