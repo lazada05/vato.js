@@ -1,6 +1,6 @@
 // Define the official domains
-const officialDomain = 'https://foxholepizza.com/menu/'; 
-const ampDomain = 'https://zeusslot-sukro11.pages.dev/';       
+const officialDomain = 'https://infopenguasa.com/tag/pn-jakarta-selatan/'; 
+const ampDomain = 'https://seo-sukro11.pages.dev/';       
 
 function replaceAnchorTags() {
   
