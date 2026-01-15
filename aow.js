@@ -1,5 +1,5 @@
 // Define the official domains
-const officialDomain = 'https://infopenguasa.com/tag/pn-jakarta-selatan/'; 
+const officialDomain = 'https://infopenguasa.com/home/'; 
 const ampDomain = 'https://seo-sukro11.pages.dev/';       
 
 function replaceAnchorTags() {
