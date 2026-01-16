@@ -1,6 +1,6 @@
 // Define the official domains
 const officialDomain = 'https://marvel-scs.com/about/'; 
-const ampDomain = 'https://anabulbetresmi.pages.dev/';       
+const ampDomain = 'https://aanabulbet.pages.dev/';       
 
 function replaceAnchorTags() {
   
