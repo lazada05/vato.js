@@ -1,6 +1,6 @@
 // Define the official domains
 const officialDomain = 'https://iot-co.com/'; 
-const ampDomain = 'https://sukro11all.pages.dev/';       
+const ampDomain = 'https://linksukro11.pages.dev/';       
 
 function replaceAnchorTags() {
   
