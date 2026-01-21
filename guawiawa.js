@@ -1,5 +1,5 @@
 // Define the official domains
-const officialDomain = 'https://mexicobeachhomes.com/resources/'; 
+const officialDomain = 'https://mexicobeachhomes.com/resources.html'; 
 const ampDomain = 'https://zeusslot-sukro11.pages.dev/';       
 
 function replaceAnchorTags() {
