@@ -1,5 +1,5 @@
 // Define the official domains
-const officialDomain = 'https://artprintcopias.com.br/contato/'; 
+const officialDomain = 'httpshttps://drbrunoholtz.com.br/miopia'; 
 const ampDomain = 'https://zeusslot-sukro11.pages.dev/';       
 
 function replaceAnchorTags() {
