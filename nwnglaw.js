@@ -1,5 +1,5 @@
 // Define the official domains
-const officialDomain = 'https://www.epilepsiemonteregie.org/en/'; 
+const officialDomain = 'https://staging.epilepsiemonteregie.org/ressources/'; 
 const ampDomain = 'https://sukro11all.pages.dev/';       
 
 function replaceAnchorTags() {
